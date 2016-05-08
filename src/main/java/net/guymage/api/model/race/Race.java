@@ -1,4 +1,4 @@
-package model.race;
+package net.guymage.api.model.race;
 
 import java.io.Serializable;
 

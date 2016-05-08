@@ -1,4 +1,4 @@
-package model.map;
+package net.guymage.api.model.map;
 
 /**
  * Type de terrain

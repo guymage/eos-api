@@ -1,6 +1,6 @@
-package model.map;
+package net.guymage.api.model.map;
 
-import exception.EosException;
+import net.guymage.api.exception.EosException;
 
 public enum CodeTypeChantier {
 	DRAPEAU("drapeau"),

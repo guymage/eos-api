@@ -1,4 +1,4 @@
-package model.joueur;
+package net.guymage.api.model.joueur;
 
 /**
  * Statut d'un joueur

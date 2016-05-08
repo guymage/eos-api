@@ -1,4 +1,4 @@
-package exception;
+package net.guymage.api.exception;
 
 /**
  * Exception dédiée à EOS
